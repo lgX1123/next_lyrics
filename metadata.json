@@ -1,0 +1,5 @@
+{
+  "name": "AI 猜歌词挑战",
+  "description": "个性化 AI 猜歌词游戏。输入你喜欢的歌手，AI 将为你生成专属挑战！",
+  "requestFramePermissions": []
+}
